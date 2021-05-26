@@ -1,2 +1,2 @@
 # Maquina-de-troco-em-Assembly
-Código simple sem assembly para calcular troco.
+Código simple em assembly para calcular troco.
